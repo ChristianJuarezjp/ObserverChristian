@@ -13,7 +13,7 @@ public class Main {
 
         // Cambiar la temperatura
         weatherStation.setTemperature(15);
-        weatherStation.setTemperature(50);
-        weatherStation.setTemperature(100);
+        weatherStation.setTemperature(70);
+        weatherStation.setTemperature(200);
     }
 }
